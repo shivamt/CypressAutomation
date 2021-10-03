@@ -1,0 +1,13 @@
+{
+    
+    "projectId": "123",
+    "baseUrl": "https://www.saucedemo.com",
+    "viewportWidth": 1000,
+    "viewportHeight": 1080,
+    "videoUploadOnPasses": false,
+    "video": false,
+    "trashAssetsBeforeRuns": true,
+    "defaultCommandTimeout": 10000,
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false  
+}
